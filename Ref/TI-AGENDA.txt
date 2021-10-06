@@ -1,2 +1,0 @@
-target="_blank" class="default-btn header-action-btn"><i class="ti-agenda"></i>Current IP: 172.19.1.22</a>							
-						
